@@ -11,3 +11,6 @@ Tjena tjena, gör lite ändringar ba!
 ändrar lite till på GitHubben
 
 fixar lide mera
+
+Adderar extra information från da hubbb
+
