@@ -14,3 +14,5 @@ fixar lide mera
 
 Adderar extra information från da hubbb
 
+OCH LITE TILL FRÅN LOCALEN
+
