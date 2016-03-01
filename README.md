@@ -6,3 +6,6 @@ Tjena tjena, gör lite ändringar ba!
 ändrar lite till på the local
 =======
 >>>>>>> d4d6aea766e0d14bc4785e22b6e766c50d201819
+
+
+ändrar lite till på GitHubben
